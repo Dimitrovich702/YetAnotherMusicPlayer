@@ -23,6 +23,8 @@
 // then these scripts not sleeping are consuming memory right? how much 2112 KB per each rezed around aditional 2 mb of memory OK works but what it is its optimization, how much $ money cost having those 2 mb aditional running forever/ my avatar weights between 4000 and 5000 complexity very little 
 // supposing i am a jomo bull and i am only wearing some combat huds - does it has comparison to 350.000 complexity avatars / no but what is the media for avatar on virtual reality around more than 250.000 supposing you have mesh body and it looks decent 
 // people who makes or uses things do not care how much something consumes https://wiki.secondlife.com/wiki/How_to_run_SL_faster 
+// Deimanovs 2024 january 14 
+// Dimitrovich 2024 feb 4 
 //mono
 
 
