@@ -17,6 +17,7 @@
 //nfo_preprocessor_version 0
 //program_version Firestorm-Releasex64 5.0.11.53634 - Monkibones
 //last_compiled 06/04/2018 04:51:39
+// NOTE THIS GOES OUTSIDE THE MAIN MUSIC BOX AND WORKS AS HANDLER FOR THE MAIN HANDLER 
 // so for every list more or less what they did in the past is having 1 box and 1 script to listen and handle per each notecard 
 // something i personally dislike why they did this? not sure if lack of developing things? does it makes it smoother? IDK ok  the song plays but you must have a thousand scripts running per music box or insturment per people using it on the same place 
 // how much memory consumes having the same code running lets say a million times at once supposing a thousand people is using their music player, supposing also ten people are at some sim and they having each of themn between one or two musical instruments or a phone 
