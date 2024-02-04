@@ -35,7 +35,7 @@ default
 {
     link_message(integer Sender, integer Number, string String, key Key)
     {
-        if(Number >= 1021)
+        if(Number >= 1021) // each link number is the number of the integer X 
         {
             if(Key == NULL_KEY)
                 llStopSound();
