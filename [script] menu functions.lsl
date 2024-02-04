@@ -469,4 +469,4 @@ default
         }
     }
 }
-
+// sound in sl wont go over 1 
